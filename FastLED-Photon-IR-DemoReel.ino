@@ -1,9 +1,16 @@
 /*
- * FastLED-Photon-IR-DemoReel: https://github.com/jasoncoon/FastLED-Photon-IR-DemoReel
+ * FastLED-Photon-IR-DemoReel
+ * https://github.com/jasoncoon/FastLED-Photon-IR-DemoReel
  * Copyright (C) 2016 Jason Coon
  *
  * Based on DemoReel100 by Mark Kriegsman and Daniel Garcia:
  * https://github.com/FastLED/FastLED/blob/master/examples/DemoReel100/DemoReel100.ino
+ *
+ * Uses FastLED by Daniel Garcia and Mark Kriegsman:
+ * https://github.com/FastLED/FastLED
+ *
+ * Uses IRRemote library port for Particle Photon by Michael Doan:
+ * https://github.com/babean/IRRemote
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
