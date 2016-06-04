@@ -1,11 +1,23 @@
-// FastLED "100-lines-of-code" demo reel, showing just a few
-// of the kinds of animation patterns you can quickly and easily
-// compose using FastLED.
-//
-// This example also shows one easy way to define multiple
-// animations patterns and have them automatically rotate.
-//
-// -Mark Kriegsman, December 2014
+/*
+ * FastLED-Photon-IR-DemoReel: https://github.com/jasoncoon/FastLED-Photon-IR-DemoReel
+ * Copyright (C) 2016 Jason Coon
+ *
+ * Based on DemoReel100 by Mark Kriegsman and Daniel Garcia:
+ * https://github.com/FastLED/FastLED/blob/master/examples/DemoReel100/DemoReel100.ino
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
 
 #include "FastLED.h"
 FASTLED_USING_NAMESPACE;

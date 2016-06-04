@@ -1,4 +1,5 @@
 /*
+ * FastLED-Photon-IR-DemoReel: https://github.com/jasoncoon/FastLED-Photon-IR-DemoReel
  * Copyright (C) 2016 Jason Coon
  *
  * This program is free software: you can redistribute it and/or modify
